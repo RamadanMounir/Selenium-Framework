@@ -1,0 +1,1 @@
+{"uuid":"774d6b18-a9ef-47fd-acff-3509a68776ef","name":"searchTests.SearchTest","children":["241c8e09-52ae-47df-b596-b96c40ea3554"],"befores":[{"name":"Arrange","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699118710717,"stop":1699118710718}],"afters":[],"start":1699118708723,"stop":1699118757184}
